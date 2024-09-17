@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 Hi, I'm [Charles NDAYISABA](https://nccharles.site), a Software Engineer.
-- 👀 I’m interested in PERN,MERN Stacks
 - 🌱 I’m currently working on cool stuff
 
 Apart from programming, I enjoy music and traveling.
